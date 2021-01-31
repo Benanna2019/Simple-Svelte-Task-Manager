@@ -25,6 +25,9 @@
     color: red;
     text-decoration: line-through;
   }
+  .list-group-item {
+    border: none;
+  }
 </style>
 
 <main>
